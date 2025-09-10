@@ -7,11 +7,9 @@ QuoteFlow is a modern, inspirational quote application for Android, built entire
 ---
 ## 📸 Screenshots
 
-*(You can replace the placeholders below with your own screenshots after uploading them to your repository.)*
-
 | Home Screen | Add Quote Dialog | Favorites (Empty) | Favorites (With Quotes) |
 | :---: |:---:|:---:|:---:|
-| `[Image Placeholder: Main screen showing the Quote of the Day]` | `[Image Placeholder: The 'Add a Quote' dialog box]` | `[Image Placeholder: The favorites screen before any quotes are saved]` | `[Image Placeholder: The favorites screen showing a list of saved quotes]` |
+| ![1 Home Screen](https://github.com/user-attachments/assets/bb182402-409d-4dcb-a1e0-dbdf60432b27) | ![2 Add a Quote](https://github.com/user-attachments/assets/166cfa57-b0ce-49f5-9ddc-45a1797d9e0d) | ![3 Empty Favourites](https://github.com/user-attachments/assets/f5db3e86-f0e8-405c-ab05-755ca4a6809b) | ![4 Favourites](https://github.com/user-attachments/assets/3e491f34-353f-487e-8ddf-d16f9f980592) |
 
 ---
 
